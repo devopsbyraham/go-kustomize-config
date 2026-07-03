@@ -7,5 +7,5 @@ resources:
 
 images:
 - name: dummy-image
-  newName: ghcr.io/raj-pro/go-api-app
+  newName: ghcr.io/devopsbyraham/go-api-app
   newTag: 96cc358
