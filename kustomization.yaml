@@ -8,4 +8,4 @@ resources:
 images:
 - name: dummy-image
   newName: ghcr.io/devopsbyraham/go-api-app
-  newTag: 96cc358
+  newTag: "6032022"
